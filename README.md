@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://github.com/simonhoellein">
-  <img height=200 align="center" src="https://github-stats.shoellein.de/api?username=simonhoellein&show_icons=true&hide_border=true&hide=stars&show=prs_merged,prs_merged_percentage" />
+  <img height=200 align="center" src="https://github-stats.shoellein.de/api?username=simonhoellein&show_icons=true&hide_border=true&show=prs_merged,prs_merged_percentage" />
 </a>
 
 
