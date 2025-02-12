@@ -26,9 +26,11 @@ Here are some ideas to get you started:
 
 </br>
 
-<a href="https://github.com/simonhoellein">
+<!-- WakaTime Heatmap
+<a href="https://wakatime.com/@shoellein">
   <img align="center" src="https://wakatime.com/share/@shoellein/25f52e5e-1289-4a92-a10f-518aefde5755.svg" />
 </a>
+-->
 
 <!--
 ![Simons GitHub stats](https://github-stats.shoellein.de/api?username=simonhoellein&show_icons=true&hide_border=true&show=prs_merged,prs_merged_percentage&theme=transparent)
