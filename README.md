@@ -24,8 +24,10 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-stats.shoellein.de/api/top-langs/?username=simonhoellein&layout=compact&hide_border=true&theme=transparent" />
 </a>
 
+</br>
+
 <a href="https://github.com/simonhoellein">
-  <figure><embed src="https://wakatime.com/share/@shoellein/25f52e5e-1289-4a92-a10f-518aefde5755.svg"></embed></figure>
+  <img align="center" src="https://wakatime.com/share/@shoellein/25f52e5e-1289-4a92-a10f-518aefde5755.svg" />
 </a>
 
 <!--
